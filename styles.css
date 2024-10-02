@@ -19,7 +19,14 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-    </section>
+    <section>
+    <div class="chamada-texto">
+        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+        <p>#homem-aranha</p>
+    </div>
+
+    <!-- código omitido -->
+</section>
 
 body {
     color: white;
