@@ -21,6 +21,11 @@
         </div>
     </section>
 
-</body>
+body {
+    color: white;
+    background: black;
+}
 
-</html>
+header {
+
+}
